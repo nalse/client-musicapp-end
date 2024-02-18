@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: false,
   env: {
-    "BASE_URL": "https://client-musicapp.ondigitalocean.app"
+    "BASE_URL": "https://server.meliordism.az"
   }
 }
 
